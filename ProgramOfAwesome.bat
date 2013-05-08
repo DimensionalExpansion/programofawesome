@@ -7,10 +7,6 @@
 
 //Used variables:
 //menuc - Very main menu
-//DOSmain - DOS main menu
-//DOSc - DOS locator variable
-//DOSip - Stored ip of DOS
-//DOSend - Goodbye of DOS
 //gamesel2 - Choice of Adventure game
 @echo off
 title The Program of Awesome
