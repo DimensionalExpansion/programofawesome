@@ -203,6 +203,7 @@ echo On the way, you are beaten and killed by a group of theifs.
 echo Going alone?
 echo Without armour?
 echo What did you think was going to happen?
+echo Patrick is sexy!
 echo.
 echo Press any key to exit to menu.
 pause >nul
