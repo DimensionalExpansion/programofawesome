@@ -63,7 +63,7 @@ echo I--------------------------------------------------I
 echo Choose the game you would like to play:
 echo 1. Crusades
 echo 2. Camping
-echo 3. Underwater
+echo 3. The Tale of Alfheim
 set /P gamesel2=:
 if /I %gamesel2%==1 call crusadegame.bat  (
 ) else (
